@@ -41,7 +41,7 @@ Every project will include:
 
 ## 🚀 Progress Tracker
 - **Goal:** 50 Projects  
-- **Completed:** 0 / 50  
+- **Completed:** 1 / 50  
 *(This will update as I go.)*
 
 ---
